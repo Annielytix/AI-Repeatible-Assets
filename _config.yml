@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Mighty South CSU"
-  # avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/repository-open-graph-template.png"
   bio    : "Born out of the South for the benefit of all"
   links:
     - label: "Website"
